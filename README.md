@@ -1,4 +1,4 @@
-# Usando Satellite Assemblies con GTK# - (parte 2)
+# Usando Satellite Assemblies con GTK#
 
 <p align="justify">
 En este programa se mostrara un ejemplo que nos mostrara los pasos de como consumir los ensamblados satelite o ensamblados de recursos desde una aplicacion GTK#.
